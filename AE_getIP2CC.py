@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# MainActivity.java
+# AE_getIP2CC.py
 # 
 # Created on: 2021/05/27
 # AUTHOR:	Reiki Hattori - http://www.anaheim-eng.co.jp/
